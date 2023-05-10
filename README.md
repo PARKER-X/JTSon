@@ -1,5 +1,6 @@
 # JTSon - A simple json database.
 
+
 ## Introduction:
 JTSON is a lightweight database that stores key-value pairs in a file. It uses JSON format to store data in the file and provides basic operations like adding, getting, deleting, and flushing data. JTSON uses hash functions to secure keys and zlib compression to reduce file size.
 
