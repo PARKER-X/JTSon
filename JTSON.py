@@ -4,6 +4,7 @@ import hashlib
 import zlib
 import traceback
 
+
 class JTSON(object):
     def __init__(self, location):
         self.location = os.path.expanduser(location)    # This is the path and filename of the database file
